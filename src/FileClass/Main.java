@@ -12,7 +12,7 @@ public class Main {
             System.out.println(file.isFile());
             file.delete();
         }else{
-            System.out.println("That file doesn't exiast");
+            System.out.println("That file doesn't exist");
         }
 
     }
